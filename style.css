@@ -1,0 +1,45 @@
+body{
+
+background-image: linear-gradient(to right, black , silver);
+
+}
+
+#sucesso{
+
+text-align: center;
+color: lightseagreen;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Moon+Dance&family=Pacifico&family=The+Nautigal&display=swap');
+
+.nautigal{
+
+    font-family: 'The Nautigal', cursive;
+
+}
+.pacifico{
+
+    font-family: 'Pacifico', cursive;
+
+}
+.moon-dance{
+
+    font-family: 'Moon Dance', cursive;
+
+}
+.lobster{
+
+    font-family: 'Lobster', cursive;
+
+}
+.bebas-neue{
+
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+
+
+
+
+
